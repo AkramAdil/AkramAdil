@@ -1,4 +1,5 @@
-👋 Hi, I’m Akram Adil
+👋 Hi, I’m Akram Adil.
+
 I like buit side projects by myelf or with team to improve my current skills and know new tools, currenlty 
 i built web apps by React to build user interfaces and I use Node.js and express framework on server side.
 My passion is to creat projects for both developers and users.
